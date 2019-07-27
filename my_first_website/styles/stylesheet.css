@@ -1,0 +1,21 @@
+h1 {
+  font-size: 40px;
+  font-family: "Merriweather", serif;
+}
+p {
+  font-size: 14px;
+  font-family: "Merriweather", serif;
+}
+.frodo-ring-img {
+  width: 25%;
+  height: auto;
+}
+.frodo-osgiliath-img {
+  width: 40%;
+  height: auto;
+  float: right;
+}
+.frodo-sam-img {
+  width: 40%;
+  height: auto;
+}
