@@ -1,21 +1,40 @@
+body {
+  background-color: #e6e6e6;
+}
+
 h1 {
   font-size: 40px;
-  font-family: "Merriweather", serif;
+  font-family: "Verdana", sans-serif;
+  position: relative;
+  width: 23%;
+  padding: 5px;
+  border: 5px solid #442b8c;
+  overflow: hidden;
 }
 p {
-  font-size: 14px;
-  font-family: "Merriweather", serif;
+  font-size: 17px;
+  font-family: "Verdana", sans-serif;
+  text-align: justify;
+  line-height: 1.4;
+  margin-right: 20px;
+
+  clear: left;
 }
 .frodo-ring-img {
   width: 25%;
   height: auto;
+  float: left;
+  margin-bottom: 15px;
+  margin-right: 20px;
 }
 .frodo-osgiliath-img {
   width: 40%;
   height: auto;
+  margin: 15px;
   float: right;
 }
 .frodo-sam-img {
   width: 40%;
+  margin: 15px;
   height: auto;
 }
