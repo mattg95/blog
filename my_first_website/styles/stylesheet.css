@@ -11,6 +11,12 @@ h1 {
   border: 5px solid #442b8c;
   overflow: hidden;
 }
+h2 {
+  font-family: "Verdana", sans-serif;
+  position: relative;
+  top: -15px;
+  left: 3px;
+}
 p {
   font-size: 17px;
   font-family: "Verdana", sans-serif;
