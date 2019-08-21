@@ -1,13 +1,10 @@
-body {
-  background-color: #e6e6e6;
-}
-
 h1 {
   font-size: 40px;
   font-family: "Verdana", sans-serif;
   position: relative;
   width: 23%;
   padding: 5px;
+  border-radius: 5px;
   border: 5px solid #442b8c;
   overflow: hidden;
 }
@@ -18,7 +15,7 @@ h2 {
   left: 3px;
 }
 .para-style-1 {
-  font-size: 17px;
+  font-size: 18px;
   font-family: "Verdana", sans-serif;
   text-align: justify;
   line-height: 1.4;
@@ -26,7 +23,7 @@ h2 {
   clear: left;
 }
 .para-style-2 {
-  font-size: 17px;
+  font-size: 18px;
   font-family: "Verdana", sans-serif;
   text-align: justify;
   line-height: 1.4;
